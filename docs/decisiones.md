@@ -9,3 +9,6 @@ Documentad aquí las decisiones relevantes, especialmente cuando resolváis el c
 
 Decisión docente: las propuestas se revisan mediante PR
 loquesea
+
+
+# Esta es nueva
